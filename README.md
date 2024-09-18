@@ -1,0 +1,1 @@
+this is a simple password generator that you can use it in your code. It works by asking you some questions to see your prefrences and then use them to generate a password. It mainly uses Math.random() , for loops, if statements. My very own first project.
